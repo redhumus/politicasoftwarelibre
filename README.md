@@ -1,0 +1,2 @@
+# politicasoftwarelibre
+Bogotá ha venido construyendo instrumentos de política pública durante la última década. En 2016 se reinicia el proceso de construcción de la política pública de software libre para la ciudad. El ejercicio requiere una participación amplia de la ciudadanía. Por ello, se promueve la consolidación de un documento con lineamientos de política con participación visible de la ciudadanía
